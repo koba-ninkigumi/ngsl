@@ -1,0 +1,964 @@
+Meanings,English Definition,POS,J Translation
+repertoire,a collection of skills or accomplishments.,n,レパートリー
+obtain,To be given or to earn something through efforts,verb,得る
+distribution,- in statistics: an arrangement of values showing frequency of occurrence - in engineering: the way in which the fuel-air mixture is supplied to each cylinder of an engine - in commerce: delivery of products or services.,n,配布；分布；流通
+parameter,"a characteristic or constant factor, a limit.",n,パラメーター
+aspect,"an element, feature, or quality of something",n,面；様相
+dynamic,always active or changing; in physics: a force related to motion,adj,動的な; 活動的な
+impact,a striking effect or result to hit with force,n,影響，影響を与える
+domain,"a field of action, thought or influence; an area of knowledge",n,領域；ドメイン
+publish,"to prepare a book, journal, magazine and make it available",verb,出版する；発表する
+denote,be a name or symbol for,verb,示す
+authority,"people in positions of power, able to decide things",n,権力者； 権限者
+semantic,the different meanings of words,adj,意味の
+par,the usual amount,n,等価；平均；額面価格
+ion,a charged atom,n,イオン
+matrix,"a substance, situation, or environment in which something has its origin - in math: an arrangement of numbers in rows and columns",n,マトリックス；基質
+linear,made of lines,adj,線形の
+cognitive,the process of knowing and remembering,adj,認知の
+graph,image expressing numerical data in lines or shapes,n,図表；グラフ
+correlation,a measure of the relationship between two variables,n,相互関係
+linguistic,belonging to language,adj,言語の
+acid,sour substance that reacts with metals e.g. lemon,n,酸
+induce,"to cause, to persuade",verb,誘発する
+velocity,speed in a given direction,n,速度
+interval,"the distance between two points, numbers or times",n,間隔；区間
+discourse,"talk, conversation",n,談話
+finite,having limits; lasting for a limited time,adj,有限の
+stimulus,something that makes a change.,n pl.,刺激
+vector,a quantity that has both size and direction.,n,ベクトル
+electron,a negatively charged particle,n,電子
+receptor,a device that receives information; in physiology: a nerve ending that changes stimuli into impulses,n,受容体
+theorem,a statement that can be proved,n,定理
+algorithm,a step-by-step problem-solving feature,n,アルゴリズム
+fluid,a material that can easily flow. e.g. water,adj,流体（名）、 流動的な（形）
+developmental,concerning the development or growth,adj,発達上の
+bound,to go to a specified place; to jump,verb,縛られた
+molecular,about or caused by molecules,adj,分子の
+transformation,a complete change in shape or form of something,n,変換
+spatial,about space,adj,空間的な
+coefficient,a number multiplied by a variable in an algebraic expression.,adj,係数
+translation,changing from one form to another. e.g. changing from one language to another,n,翻訳
+membrane,a thin covering of tissue.,n,膜
+neuron,a nerve cell; the basic building block of the nervous system.,n,ニューロン
+simulation,a copy; a method that is used to study and analyze the characteristics of the real world,n,シミュレーション
+lexical,about words,adj,語彙の
+regime,a system of management; a form of government,n,政権；体制
+variance,(statistics) amount of difference in distributions,n,分散
+molecule,two or more atoms chemically combined,n,分子
+marker,something that is easy to recognize or identify,n,標識；マーカー 
+empirical,based on observation or experiment,adj,実証的な；経験による
+robot,a mechanical creature that acts like a human,n,ロボット
+statistical,about statistics,adj,統計的
+vowel,"a speech sound; a, e , i, o, u and sometimes y",n,母音
+equilibrium,a state of balance,n,平衡
+intensity,"great energy, strength, or concentration",n,激しさ；強度
+regression,going back; in statistics: a type of correlational procedure that focuses on predicting the values of an outcome based on its correlation with another variable.,n,退行
+diagnosis,a judgment by a doctor about a person’s illness,n pl.,診断
+identification,(card or paper) that proves who a person is,n,確認；識別；身分証明書
+node,an intersection or junction point in a network; a part on a plant where a new leaf grows,n,こぶ；結節
+candidate,a person who is selected by others as a contestant for an office or honor,n,候補者
+partial,not complete; being only part of something,adj,部分的な；不公平な
+correlate,to show the relationship between two items or events.,verb,相関がある
+mortality,the quality or state of being human and being able to die,n,死亡率
+antibody,a defense provided by the body against disease,n,抗体
+temporal,concerning time,adj,一時的な
+particle,a very small piece of something,n,粒子
+duration,the length of time that something lasts,n,持続；継続期間
+behavioral,concerning the way people act,adj,行動の
+consumption,how much is spent on things; the process of eating and drinking,n,消費
+bilingual,being able to speak two languages well,adj,バイリンガル
+sensitivity,being sensitive; in physiology: the ability of an organism or part of an organism to react to stimuli; in electronics: the ability of a radio device to react to incoming signals,n,感受性；感度
+similarity,the degree to which people or things are the same,n,類似
+optimal,best,adj,最適な
+explicit,definite; clearly stated; specific,adj,明示的な
+mutation,a change; in genetics: any event that changes genetic structure,n,突然変異
+colonial,of a system where one country controls another,adj,植民地の
+phonological,concerning sound,adj,音韻的な
+spectrum,the wavelengths of colors from red to violet,n,スペクトル
+nucleus,control center of a cell,n pl.,核
+onset,the beginning,n,開始
+integration,act of bringing things together into a whole,n,統合
+dominant,strongest,adj,支配的な
+pathway,a path or way that you can walk,n,経路
+coordinate,to bring order and organization to something; in maths: any of the magnitudes that serve to define the position of a point or line by reference to a fixed figure or system of lines.,verb,調整する； まとめる
+calculation,process or result of using mathematics,n,計算
+precede,to go before,verb,先行する
+subset,a small set which is part of a larger set,n,少派
+syntactic,grammatical,adj,構文
+orientation,"the ability to locate oneself in your environment with reference to time, place, and people",n,適応；オリエンテーション；方向性；位置
+proposition,an idea; a suggestion,n,提案；命題
+inequality,situation where things are not equal/fair,n,不平等
+identical,the same in every way,adj,同一の
+prevalence,"widespread, common, general",n,流行
+differential,difference; diversity,adj,区別を示す
+generalize,To apply a particular idea to a large group,verb,一般化する
+beam,a long piece of metal or wood; a line of light or energy,n,梁（はり）；光線；ビーム
+pulse,beat of the heart,n,脈拍
+norm,an established standard of performance or behavior,n,規範；基準
+trait,a characteristic,n,特徴
+prediction,a statement of what will happen next.,n,予測
+correspondence,"Communication by letters, emails or text messages",n,文通； 通信
+essentially,"basically, primarily",adv,本質的に
+syllable,a unit of speech,n,音節
+chromosome,cell structures that carry the genetic material that is copied and passed to the next generation.,n,染色体
+infect,to give someone a disease,verb,感染する
+magnetic,"having the properties of a magnet, being able to attract.",adj,磁気の
+configuration,a shape or outline; a method of arrangement,n,形状
+numerical,includes numbers,adj,数値
+namely,"that is to say, specifically",adv,すなわち；つまり
+intermediate,between,adj,中級の；中間の
+transmission,an electronic signal that has been sent by radio waves; a force that has been transferred from one machine to another,n,伝送；通信
+dose,an amount of medicine to be taken at any one time,n,服用量
+occurrence,specific instance of something happening,n,発生；出来事
+maternal,having to do with being a mother,adj,母性の
+axis,"a line about which a rotating body, such as the earth, turns.",n,軸
+rational,sensible; based on facts,adj,合理的な
+locus,a place or location; in genetics: the location of a gene on a chromosome,n,軌跡
+elite,important people of high status,n,エリート、上流階級、幹部
+approximation,"something that is similar, but not an exact copy",n,近似
+thesis,a long essay; a position taken in an argument supported by a set of reasons,n,論文；命題
+sin,a bad act; to do something bad,n,罪
+classification,putting similar items into groups or sets,n,分類
+threshold,a level or point at which something would start or stop happening.,n,しきい値
+syndrome,a group of signs and symptoms that accompany a disease,n,症候群
+comparative,expressing a difference in degree,adj,比較の
+activate,To make something start working,verb,始動する
+adolescent,Teenager developing into an adult,n,青春期の若者
+vocabulary,the words that a person knows,n,語彙
+encode,to change a message or information into code,verb,暗号化する
+utterance,something that is said,n,発話
+facilitate,To make an action or process easier,verb,促進する
+incidence,the rate that something happens,n,発生率
+induction,"bringing about, or causing",n,誘導
+trajectory,the path followed by an object moving through space,n,弾道
+manuscript,"a document, a piece of writing",n,原稿
+commonly,"typically, normally; not unusually",adv,一般に
+grammatical,concerning grammatical rules,adj,文法の
+accuracy,being exactly right; correctness,n,正確さ
+adaptation,changing to a new form; thing that is changed,n,適応
+amplitude,"the breadth, width or largeness of something",n,振幅
+cortex,the outer part of an organ or structure,n,皮質
+minimal,the smallest possible,adj,最小の
+systematic,"done in a thorough, logical or planned way",adj,体系的な；組織的な
+horizontal,flat or level,adj,水平の
+projection,an image on a screen,n,投影；投射
+synthesis,building something complex from simple parts,n pl.,合成
+diameter,the distance across the center of an object,n,直径
+cone,a 3D shape with a circular base; a part of the eye,n,円錐
+dependence,relying on someone for (financial) support,n,依存
+organism,"living thing, often one that is small",n,生命体
+emergence,the process of emerging/coming out,n,出現
+overlap,To lie over or cover a part of something else,verb,重複，重なる
+substitution,a person or thing acting or serving in place of another; to put (a person or thing) in the place of another.,n,代用；置換
+explicitly,clearly; specifically,adv,明示的に
+evident,"plain, clear",adj,明らかな
+conceptual,characterized by concepts or the forming of concepts,adj,概念の
+detection,the act of discovering something or solving a crime,n,発見；検出
+interact,"an action that is answered by a reaction, verbal or physical",verb,相互に作用する
+neural,about the nerves or nervous system,adj,神経の
+chronic,over a long time; serious,adj,慢性的な
+integral,part of something,adj,不可欠な
+enzyme,a protein made by cells,n,酵素
+conference,a meeting or series of meetings for discussion and exchange of information,n,会議
+conception,an idea or notion; the first stage in pregnancy,n,概念
+ex,"a prefix meaning ""out of,"" ""from,"" or ""not""",prefix,元
+ideology,ideas or beliefs which form theory and policy,n,イデオロギー
+sperm,male sex cell,n,精子
+quantitative,the describing or measuring of quantity.,adj,量的な
+sphere,a round 3D object. e.g. a ball,n,球体；天体
+instability,not stable; changeable,n,不安定
+mediate,"to bring about an agreement between persons or groups, act as a helper",verb,仲介する
+specification,a detailed description of the design and materials used to make something.,n,仕様
+classify,To arrange things into groups of similar items,verb,分類する
+physician,a medical doctor,n,医師
+computation,the act of calculating; method of computing,n,計算
+oral,by mouth,adj,口頭の
+mid,at (or near) the middle point,adj,中央の
+indicator,"an instrument that shows conditions in a machine, such as temperature, speed, pressure; in chemistry: a compound that changes color in the presence of an acid or a base",n,測定器；指針
+variant,thing that differs from something of the same kind,n,変異
+evolutionary,concerning evolution,adj,進化の
+feedback,a response to a message; information about a person's behavior,n,フィードバック
+collective,formed by working together as a group,adj,収集された； 集団の
+arbitrary,unsupported,adj,任意の; 気ままな
+fraction,a part of a whole,n,一部；少量；分数
+estimation,judgment; opinion; guess at the value of,n,推定
+nonlinear,not in a line,adj,非線形の
+compact,packed together; closely united; small,adj,小型の，圧縮する
+deviation,"not standard or normal; in statistics: the difference between one of a set of values and some fixed value, usually the mean of the set.",n,逸脱；偏差
+diagram,a drawing intended to explain how something works,n,図
+tropical,hot and humid; near to the equator,adj,熱帯の
+morphology,"the study of the forms and structures of plants, animals and words",n,形態
+thereby,by that means; because of that,adv,それによって
+syntax,"the study of a system, such as the system of words in a sentence",n,構文
+defect,a problem; a fault,n,欠陥
+separation,a line that seperates; a point of parting; a gap,n,分離
+convergence,coming together,n,収束
+sufficiently,to a degree great enough to do something,adv,十分に
+valid,sound; just; well-founded,adj,正当な；有効な
+interface,a shared boundary between two persons or systems through which information is communicated.,n,接点
+radiation,"energy that is radiated or transmitted in the form of rays, waves or particles.",n,放射線
+embed,"to place or set inside rock, etc",verb,埋め込む
+vertical,a line going up/down; not horizontal,adj,垂直の
+acute,strong; very serious or severe,adj,鋭い；深刻な；急性の
+utility,"being useful; a public service such as gas, water, or electricity that is used by everyone",n,実用性；公益事業
+complement,something needed to complete or make perfect,n,補足， 補足する； 完全にする
+leaf,the green part of a tree or plant,n,葉
+verbal,"using speech, rather than being written",adj,言葉による
+aggregate,a sum total amount of something,n,(...の)総計
+equality,the idea that all people have the same rights,n,平等
+corpus,a body; in linguistics: a body of words,n pl.,集成；コーパス；体
+organ,large wind instrument similar to a piano,n,オルガン
+gradient,a measure of how steep something is,n,勾配
+methodology,system of practices or techniques to show how to do tasks,n,方法論
+entity,something that is real,n,実体
+tumor,a mass of abnormal cells that develops when cancerous cells divide and grow uncontrollably,n,腫瘍
+fiber,"a thin, threadlike part of an animal hair or plant tissue; an artificial thread; body cells that form muscles and nerves; a food substance",n,繊維 ；ファイバー
+paradigm,a set of ideas that are used for understanding or explaining something,n,パラダイム
+psychology,the study of the mind and how it affects behaviour,n,心理学
+infinite,without an end,adj,無限の
+diverse,very different from each other,adj,多様な
+diagnostic,to do with finding out the cause of a problem,adj,診断の
+continuity,continued existence; fact of not stopping,n,継続性
+variability,(statistics) degree scores depart from the mean,n,変動
+outer,on or around something,adj,外側の；中心から遠くにある
+notation,a set of written signs or shapes that are used in music or mathematics,n,表記法
+probe,a system or piece of equipment that is used to get information; in medicine: a long thin instrument used for looking inside your body,verb,探査；プローブ，探査する
+migration,the process by which people or animals move to another place,n,移動；移住
+mathematical,concerning numbers and equations,adj,数学の
+likelihood,the chance that something might happen,n,可能性
+comparable,being similar in some way,adj,比較できる；同等な
+magnitude,size or importance,n,大きさ
+array,a large group of people or things; a regular order or arrangement; in maths: a series of figures.,n,配列
+inclusion,act of including; person/thing that is included,n,包含
+emission,a substance (e.g. gas) released into the air,n,放出；排出量
+inference,an opinion that you form based on information you already have,n,推論
+non,a prefix meaning 'not',prefix,～でない
+consciousness,being awake,n,意識
+simultaneously,at the same time as,adv,同時に
+disturbance,a noise or something that stops you from continuing what you were doing,n,騒乱；妨害
+hierarchy,a system for organizing people or things according to their importance,n,階層；ヒエラルキー
+rotation,movement in a circle around a central point,n,回転
+periodic,"happening regularly, but not frequently",adj,定期的な
+validity,how true something is; in statistics: the ability of a test to measure what it is intended to measure.,n,妥当性
+archaeology,"the study of ancient societies by looking at old tools, bones and buildings",n,考古学
+atom,smallest bit that matter can be broken down into,n,原子
+modification,"a small change to a machine, system, or plan",n,変更
+partition,"a wall, screen, or piece of glass used to separate one area from another",n,分割
+initiate,to start,verb,始める
+autonomy,the power to make independent decisions,n,自治権；自立性
+inhibit,to make it difficult for a process to start or continue in a normal way,verb,抑制する
+consonant,a speech sound; any letter in the alphabet that is not a vowel.,adj,一致した
+biology,the study of living things,n,生物学
+scenario,an outline; an imagined sequence of events in a plan or project,n,シナリオ
+conditional,depending (on),adj,条件付きの
+contrary,different; opposite,adj,逆の，反対
+discrete,separate; composed of distinct parts,adj,別々の
+classroom,room in a school where lessons take place,n,教室
+morphological,the study of form and structure,adj,形態素
+lateral,on the side; moving sideways,adj,横の，側面
+injection,a way to put (inject) a drug or another substance into your body,n,注射；注入
+effectiveness,the degree of how well something works or is done,n,有効性
+insect,"a small animal with 6 legs, such as a bee or ant",n,昆虫
+logical,sensible; reasonable,adj,論理的な
+calculus,a type of mathematics used for calculating such things as the slopes of curves,n,結石、微積分（数学）
+longitudinal,going from the top to the bottom of something,adj,縦方向の
+usage,the way something is used,n,使用
+neutral,not involved; without strong feeling; without electrical charge; not acidic or akaline,adj,中立の
+client,person paying for professional services,n,依頼人；顧客
+marginal,very small; on the edge; not important,adj,縁の；余白の
+characterization,the way someone or something is described,n,特徴付けること
+ethical,morally right or wrong,adj,倫理的な
+superior,better; higher quality,n,上の，上司
+approximate,about; not exact but close,adj,約；大体の；おおよその
+composer,a music writer,n,作曲家
+singular,one,adj,単数の；並外れた
+converge,to come together,verb,集中する
+fetal,"concerning a fetus, an unborn baby",adj,胎児
+comprehension,ability to understand,n,理解
+implicit,not stated directly,adj,暗黙の
+span,the amount of time something lasts,verb,期間，架かる；及ぶ
+oxygen,"a gas in the air that has no smell or taste, and that all animals need to breathe",n,酸素
+formulation,"the development of a plan, system, or proposal",n,形成；策定
+dialect,a way of speaking a language that is used only in a particular area or by a particular group,n,方言
+colony,country or settlement controlled by another country,n,植民地
+immune,"not affected by something, such as a disease",adj,免疫
+loop,a round shape,n,輪
+algebra,mathematics using letters and symbols in place of some numbers,n,代数学
+derivative,something that has developed or been obtained from something else,adj,派生物；派生語，派生した
+appendix,additional information at the end of a document,n,付録；追加
+overview,a description of the main features of something,n,概観
+diffusion,the movement of light in many directions,n,拡散
+specimen,"an example of something, especially of a plant or an animal; a small amount of blood or urine",n pl.,見本；標本
+assert,To state or declare your ideas positively strongly,verb,断言する
+widespread,happening or existing in many places; affecting many people,adj,広く行き渡っている
+competence,ability to do something in a fully satisfactory way,n,能力
+residual,"concerning the last little bit, after the rest has gone or ended",adj,残りの，残余
+fusion,"when different styles, ideas or designs combine to form something new; in physics: when atoms combine to produce nuclear energy",n,融合
+conservation,the management of land and water in ways that stop it from being damaged,n,保全
+constrain,To make someone do something by strong persuasion or force,verb,強制する; 抑制する
+differentiate,to see or show a difference between things,verb,区別する；差別化する
+virtue,a good quality,n,美徳
+amino,a substance that combines to form the structure of proteins,n,アミノ酸
+partially,in part; in some degree; not wholly,adv,部分的に；不公平に
+preliminary,before,adj,予備の
+philosophical,concerning philosophy,adj,哲学的な
+pre,a prefix meaning 'before',prefix,前
+transaction,an exchange; in business this usually involves money,n,取引
+prominent,being important or well known,adj,著名な
+indigenous,"living or growing naturally in an area, not brought from somewhere else",adj,固有の；土着の
+render,"to cause someone or something to behave in a particular way, or to enter into a particular condition",verb,〜の状態にする；与える
+independently,in a manner being free from the control of another,adv,独立して
+symbolic,representing a larger quality,adj,象徴的な；記号の
+utilize,to use something practically for a particular purpose,verb,利用する
+physiological,concerning how the body functions,adj,生理学的な
+indirect,having a path that is not straight or direct,adj,間接的な
+assembly,a group of machine parts forming a tool or machine,n,組み立て
+calcium,"a substance important for human and animal health, particularly for making bones and teeth",n,カルシウム
+strictly,restricted to something,adv,厳密に
+psychiatric,concerning or used in psychiatry,adj,精神科の
+unity,being in full agreement; being joined together,n,単一性；統一
+critique,a review of the quality of a work,n,批評
+differentiation,a discrimination between things as different and distinct,n,差別化；分化
+closure,the act of closing something,n,終末
+minimize,to make something as small as possible,verb,最小限にする
+selective,choosing through thoughtful comparison,adj,選択的な
+availability,being present and able to be used,n,可用性；利用可能
+depict,to describe someone or something,verb,描写する
+cue,a word or action during a stage play to tell an actor to speak,n,合図，合図を送る
+parental,"concerning, or provided by, a parent",adj,親の
+ritual,performed as part of a formal ceremony,n,儀式
+fertility,the state of a female being able to produce young,n,肥沃；繁殖力
+adjacent,"being close or near to a border, wall, or point",adj,隣接した
+inhibition,the process whereby nerves can retard or prevent the functioning of an organ; the act of blocking or holding back,n,抑制；阻害
+observer,someone whose job it is to watch or notice things,n,観察者；監視者
+readily,in a quick and easy manner,adv,容易に
+questionnaire,form used to get information from many people,n,アンケート
+generalization,making a statement about a group from limited data,n,一般化；一般概念
+qualitative,"concerning how good something is, rather than quantity",adj,質的な
+tense,stretched tight and stiff,adj,緊張した；ピンと張った
+locally,Concerning the area around where you are,adj,局所的に；地元で
+transcription,something written,n,転写
+nutrient,"a chemical, food, that animals and plants need to live, develop, and be healthy",n,栄養素
+reinforce,to strengthen,verb,強化する；補強する
+simulate,"to look, feel, or behave like something; to copy",verb,ふりをする；シミュレーションをする
+statistically,with respect to statistics,adv,統計的に
+dense,very thick and difficult to see/get through,adj,濃い；密集した
+ecology,"the study of plants, animals, people, and their environments",n,生態学
+null,having no impact,adj,無効の
+terminal,the end of something,n,終点；終着駅；ターミナル
+informal,not official; not done by the rules,adj,非公式の
+discharge,to release someone or something,verb,発砲；排出；解任，排出する；放電する
+adaptive,able to adjust to new conditions,adj,適応性のある
+ecological,"concerning the environment, plants, or animals",adj,生態学的な
+protocol,a set of rules; computers use protocol so they can exchange information,n,外交儀礼；議定書；協定
+progressive,believing in modern ideas about social change,adj,進歩的な
+aesthetic,concerning the sense of artistic beauty,adj,美的な
+agriculture,the science of farming,n,農業
+exploit,to use something or someone selfishly or unethically,verb,不当に利用する；搾取する
+practitioner,"a person working in a profession, such as medicine",n,（専門職・技術などの）開業者；（特に）開業医
+occupation,a career or regular job,n,職業；占有
+equivalence,when something is equal to something else,n,同価値
+pragmatic,"dealing with problems in a reasonable, practical manner",adj,実用的な
+productivity,rate at which something is made or that people work,n,多産；生産性
+arrow,a symbol to give direction; a long piece of wood shot from a bow,n,矢印
+reproduce,to make a copy of something,verb,再生する；繁殖する
+commentary,explanation or discussion of a written work/event,n,論評；注釈；記録
+residue,left over after part or most is taken away,n,剰余；残留物
+unstable,likely to move from its position or fall,adj,不安定な
+consensus,a decision that is shared by most of the members of a group,n pl.,合意；コンセンサス
+simplify,"to make something easier to do, use or understand",verb,簡素化する
+radius,a given area or a range around a certain point; a line from the center of a circle to its edge,n,半径
+artificial,not made by people; not created by nature,adj,人工の
+harvest,the time of year to bring crops in from the fields,n,収穫
+suicide,the act of purposely killing yourself because you no longer wish to live,n,自殺
+pi,the ratio of the circumference to the diameter of a circle; approximately equal to 3.14,n,パイ
+monkey,"an animal related to humans, which lives in trees",n,サル
+habitat,"the natural place, or type of place, where a plant or animal lives",n,生息地
+assignment,A duty that you are give to do (especially in the armed forces),n,任務； 業務； 職
+replicate,"to repeat something, such as an experiment, study or process",verb,複製する
+mechanical,using or having to do with machines,adj,機械的な
+disability,a condition that limits a person's ability to do something,n,身体障害
+cattle,cows or bulls on a farm,n,畜牛
+purely,for no other reason; only and completely,adv,純粋に
+contradiction,the act of saying that something is not true or very different,n,矛盾；否定
+scatter,to make things separate and go in different directions,verb,まき散らす
+problematic,being difficult to deal with or fix,adj,問題のある
+correction,a change to make something right,n,訂正
+linguistics,the study of human languages,n pl.,言語学
+hormone,a chemical produced by the body to control some function,n,ホルモン
+primitive,being of an early time period in the past,adj,原始的な
+ethics,"the moral principles, standards, and rules for deciding what is right and wrong",n pl.,倫理学；道徳
+accumulation,The act of getting or becoming bigger or more over time,n,蓄積
+static,being unchangeable or unmovable,adj,静的な
+consent,to agree or allow to do something,verb,承諾，同意する
+substrate,a substance which a catalyst or enzyme has an effect on,verb,基板
+straightforward,easy to do or understand; not complicated,adj,まっすぐな；率直な；正直な
+discrimination,the ability to recognize the difference between things; treating different groups of people unfairly,n,差別；識別
+separately,not with another person or thing,adv,別々に
+randomize,to arrange in a random order,verb,無作為化する
+sensory,"referring to the five senses (hearing, sight, smell, taste and touch)",adj,感覚の
+confine,to keep something or someone within a limited area so it cannot escape,verb,閉じ込める
+mineral,a substance naturally formed in the ground,n,鉱物
+peripheral,not connected to the main or important part of something,adj,周辺の
+spontaneous,"something that happens on its own, seemingly without cause",adj,自発的な
+reliability,a quality that makes someone or something dependable and deserving of trust,n,信頼性
+clone,to make an exact copy of a living thing,verb,クローンを作る
+orient,to focus your attention or efforts on something,verb,適応させる；正しい方向に置く
+elaborate,to be made or done with great care or with much detail,adj,手の込んだ
+nominal,in name or thought but not reality,adj,名ばかりの
+insert,to put something in something,verb,挿入する
+reproduction,the process that produces the next generation,n,再生；生殖作用
+dominance,"the state of being more powerful, successful, or important than others",n,支配
+allocation,The distribution of items set apart according to a plan or purpose,n,割り当て
+lung,an organ used to breathe,n,肺
+productive,doing a lot of work and achieving a lot,adj,生産的な
+decay,to be slowly broken down by natural processes,verb,腐敗；減衰，腐敗する；崩壊する
+conscious,aware of what is going on around you; not knocked out,adj,意識している
+thickness,the distance between the opposite edges of a thing,n,厚さ
+transmit,to broadcast by using electrical signals to a radio or TV,verb,送信する
+conceive,"to think of, or create, something new (e.g. idea, child)",verb,思い付く；妊娠する
+offspring,the child of a person or the young of a plant or animal,n,子孫
+resemble,to be similar to someone or something in looks or manner,verb,似ている
+circulation,the movement of blood through the body,n,循環
+correctly,in an accurate or correct manner,adv,正しく
+necessity,something that you must have or do,n,必要性; 必需品
+metaphor,a figure of speech based on analogy,n,隠喩
+tract,a large stretch of land,n,器官系；土地
+liver,a large organ in the body that helps to absorb food and clean the blood,n,肝臓
+subjective,"the use of personal feelings and opinions, rather than facts",adj,主観的な
+accumulate,To gather or acquire so that you have more of it,verb,蓄積する
+rejection,the act of refusing to consider or believe something,n,拒絶
+maximize,"to increase, or become as large or great as possible",verb,最大化する
+replacement,"the act of putting something new in the place of something that is old, broken or missing",n,交換
+amongst,in or through a group,prep,～の間に；～の中の
+complication,action making something harder to do something,n,合併症
+plural,refers to more than one person or thing,adj,複数の
+valve,"a device along a pipe that can either open and allow something to flow, or close and block it",n,弁；バルブ
+absorption,"process of being absorbed (e.g. liquid, attention)",n,吸収
+monetary,"concerning money, often referring to a country's economic system",adj,金銭的な
+thermal,with reference to some source of heat,adj,熱の
+likewise,"in the same way, in addition to",adj,同様に
+tolerance,"a willingness to let people do, say or believe what they wish, without judging or challenging them",n,耐性
+articulate,to express something clearly using language,verb,考えをはっきり言う
+donor,a person or group that gives gifts or money to help support an organization or cause,n,寄贈者
+flux,a state of flow and change,n,流れ
+mobility,the ability to move,n,動きやすさ；移動性
+manipulation,the act of controlling something or someone,n,操作
+elevate,to make something higher,verb,高くあげる
+nationalism,"The spirit of love of your country, e.g. leading to war",n,国家主義
+analogy,comparison of things based on their similarity,n,類似；類推
+adverse,negative or harmful,adj,逆の；不利な
+nitrogen,a colorless chemical element without a smell that forms most of the earth's atmosphere,n,窒素
+plausible,being reasonable and possibly true,adj,もっともらしい
+vein,one of the little tubes that return blood from the body to the heart,n,静脈
+controversy,strong public disagreement about something,n,論争
+wheat,a kind of grain that is used to make flour for bread,n,小麦
+rewrite,"to write again to improve, or correct errors",verb,書き直す
+manual,needing the use of physical strength or work; a book of information or instructions,adj,手引書；マニュアル
+strategic,concerned with strategy; well thought out,adj,戦略的な
+peasant,"a person of low social status, usually who works on a farm",n,小作人
+absorb,to take in a liquid; soak up,verb,吸収する
+sketch,a drawing made quickly that lacks detail,n,スケッチ
+justification,a reason or fact that explains why something happens or exists,n,正当化
+lifetime,the time between birth and death,n,生涯
+binary,"having two parts; using only 2 numbers, 1 and 0",adj,２つの；２進法の
+definite,Not likely to change; clearly decided,adj,明確な；限定的な
+contour,the shape of the outside edge of something,n,輪郭
+execution,killing a person as a (usually legal) punishment,n,処刑
+rhythm,a pattern of sound and beats in music,n,リズム
+ultimate,"happening or coming at the end of process, final",adj,究極の; 根本的な
+dictionary,a book with the spellings and meanings of many words,n,辞書
+constitution,a law determining the fundamental political principles of a government,n,憲法；構成
+acceleration,increase in the speed or rate of something,n,加速
+undermine,to weaken or destroy something secretly and usually slowly,verb,弱体化させる
+disadvantage,a negative point; a downside; difficulty,n,不利な点
+myth,a popular belief that is false or unsupported by fact,n,神話
+strand,something that is plaited or twisted as a rope-like length,n,糸
+unify,to join or bring together,verb,統一する
+randomly,with no pattern or clear purpose; by chance,adv,無作為に
+philosopher,a person who studies ideas about things such as the meaning of life and truth,n,哲学者
+pronounce,to make the sound of a word or letter with your voice,verb,発音する
+workshop,a brief intensive course for a small group; emphasizes problem solving,n,作業場；研修会
+objection,reason for not supporting or agreeing with a plan,n,異議
+meaningful,Having importance; showing someone's intention,adj,意味のある
+wavelength,the size of a wave; a shared understanding,n,波長
+diagnose,"to determine the cause of something, e.g. an illness",verb,診断する
+accent,a way of speaking that shows your dialect or class,n,訛り
+realm,the area ruled by a king or queen,n,領域
+replication,the act of making copies,n,レプリケーション
+basin,a sink; a place in a bathroom to wash your face,n,たらい；盆地
+admission,the act of taking responsibility for an error or mistake,n,自白
+interestingly,you'll find this surprising; in an interesting way,adv,興味深いことに
+clarify,to state again so that a point is clearer,verb,明確にする
+grid,a metal structure with bars that is used to cover a hole,n,格子；送電網
+curriculum,group of related courses in a school or college,n,カリキュラム
+displacement,the act of taking the place of something or someone else,n,移動；置換
+coherent,(of language/ideas) logical and well-organized,adj,まとまった；理解しやすい
+standardize,to change something in order to make everything the same or make everything agree,verb,標準化する
+civilization,a highly developed society,n,文明
+positively,definitely or certainly,adv,確実に；前向きに
+bacterial,concerning or caused by bacteria,adj,細菌の
+deficiency,without something that is necessary,n,欠乏
+legitimate,being reasonable and sound,adj,正当な；合法な
+sophisticate,to make more complex or refined,verb,洗練させる
+accelerate,to increase the speed or rate of something,verb,加速する
+exponential,a constant e raised to a power equal to a given expression: e.g. e3x is the exponential of 3x.,adj,指数の
+formally,in a formal manner; officially,adv,正式に
+socially,being with other people,adv,社会的に
+accurately,exactly and without any mistakes; correctly,adv,正確に
+influential,having the power to cause change; having influence,adj,影響力のある
+progression,process of developing over time,n,発達；進歩
+essence,the most important part or quality of something,n,本質
+cylinder,"a shape or object with flat, circular ends and long, straight sides",n,シリンダー
+scholarship,money given to a student to pay for education,n,奨学金
+sodium,"a soft, white chemical element",n,ナトリウム
+predominantly,"in a way that is larger, greater or has more power than others",adv,圧倒的に
+impulse,a sudden desire to do something that is not planned,n,衝撃
+oscillation,"movement, from side to side at a steady speed; a frequent change in size, strength, or direction between two limits",n,振動
+theorist,a person who forms new ideas,n,理論家
+manipulate,to control something or someone,verb,操作する
+alliance,A group of people or organizations being joined or associated,n,同盟；提携
+crystal,a solid formed by the solidification of a chemical,n,結晶
+importantly,in an important way; ,adv,重要なことには
+stack,To put one thing on top of another e.g. books,verb,山，積み上げる
+drift,to move slowly,n,漂流，漂う
+nest,the home of a bird or spider,n,巣
+fossil,a plant or animal that has become rock after many thousands of years,n,化石
+dimensional,having parts that extent in a number of directions,adj,次元の
+resistant,not affected by something,adj,抵抗する；耐性のある
+punishment,the act of punishing someone,n,罰
+rhetoric,the study of public speaking or writing techniques,n,言葉遣い；修辞学
+artifact,"object made by humans, e.g. ancient tool",n,工芸品；人工遺物
+carrier,"a company, usually an airline, that carries things",n,運送業；航空会社；電話会社
+surgical,concerning surgery,adj,外科の
+coordination,organizing people or things to make them work together effectively,n,調整
+turbulent,moving violently and unevenly,adj,乱流
+quantum,the smallest unit or amount of energy,n,量子
+sediment,the material that settles to the bottom of a liquid,n,堆積物
+ray,the lines of light coming from an object,n,光線
+conserve,to keep safe,verb,保存する；節約する
+primer,a book that covers the basics of a subject; a kind of paint,n,入門書
+grasp,to grip something firmly with the hands,verb,握る；把握する，握ること
+bulk,big size; largeness; heaviness,n,体積； 容積； 多量
+terminology,specific words and expressions used in a particular field,n,用語
+vegetation,plants,n,植生
+triangle,a closed shape with three straight sides,n,三角形
+traditionally,something done in a customary or traditional manner,adv,伝統的に
+execute,"To kill someone, usually as an official punishment",verb,死刑執行する
+intensive,needing great effort for a short period of time,adj,激しい；集中的な
+reconstruct,to rebuild something after it has been destroyed,verb,再構築する
+broadly,in a general (not detailed) manner,adv,広く
+metabolism,the chemical processes of the body in which food is converted to energy,n,代謝
+revolutionary,a significant change in something,adj,革新的な
+merge,to cause two or more things to become combined into one,verb,合併する
+dilemma,a position in which a person must make difficult choices,n,ジレンマ 
+motif,"a distinctive form, shape or figure in a design",n,モチーフ
+motive,a reason for doing something,n,動機
+subtle,"difficult to notice, understand, or see",adj,微妙な; 繊細な；巧妙な
+clinic,local medical center; department of a hospital,n,診療所
+allocate,To distribute or set apart for a plan or purpose,verb,割り当てる
+hydrogen,"the lightest of all chemical elements, has no smell or color",n,水素
+dissertation,an in-depth paper submitted for a doctorate degree,n,論文
+susceptible,at risk of developing a certain illness or problem,adj,影響を受けやすい
+architect,person who designs and advises on buildings,n,建築家
+coronary,concerning the heart,adj,冠状動脈
+breakdown,when normal activity or behaviour stops,n,故障；破壊
+inject,to put medicine into someone with a syringe,verb,注入する
+economist,a person who studies economics,n,経済学者
+momentum,speed or force that is gained when something moves,n,勢い；運動量
+polar,concerning the areas near the North or South poles,adj,極の
+backward,toward what is behind you,adv,後ろへ
+multiply,to increase greatly in number,verb,掛け合わせる；増殖する
+morality,beliefs or ideas about what is right and wrong,n,道徳；倫理
+communicative,talkative; cooperative in giving information,adj,コミュニケーションのための；情報伝達の
+physically,in a manner related to the body,adv,肉体的に；身体上
+rainfall,water falling from the sky,n,降雨
+politically,in connection with government matters,adv,政治的に
+invasion,an entry into a place for the purpose of taking control,n,侵略
+inevitably,happening with complete certainty,adv,必然的に
+capitalism,economic system based on private ownership of money,n,資本主義
+expertise,the special knowledge that an expert has,n,専門知識
+inferior,not as good as something else,adj,劣る，目下の者
+actively,doing things to achieve a specific goal,adv,積極的に
+quotation,"words that a person has said or written in a play, book or movie",n,引用；相場；見積書
+composite,made of more than one different part,adj,合成物，複合の
+historically,throughout history,adv,歴史的に
+textbook,a book that is used to study,n,教科書
+bundle,a group of things that are tied together,n,束，束ねる
+elementary,"basic, simple, or essential",adj,初等の
+capitalist,one believing in private ownership of money,n,資本家； 資本主義者
+flexibility,the quality of being able to be bent or stretched,n,柔軟性
+cord,"a long, strong material, thicker than string but not as thick as rope; an electrical wire",n,ひも；コード
+initiation,"a formal entry into an organization, position or office",n,開始
+realistic,looks or appears real; like things really are,adj,現実的な
+horizon,the line where the earth or sea meets the sky,n,地平線；水平線；視野；層位
+consultation,a discussion between people to make a decision,n,相談；協議
+ruler,someone who has control over a country or area,n,支配者；統治者
+freely,"(living, existing) without being controlled",adv,自由に
+rotate,to move or turn around a central point,verb,回転する
+commodity,"Something useful or valuable, usually for sale",n,商品；日用品
+elevation,the height of a place,n,高度
+intervene,"to get involved, to prevent trouble",verb,介入する
+compensate,to give (money) to as a form of correcting a loss,verb,補償する
+atomic,concerning atoms,adj,原子の
+trivial,unimportant,adj,ささいな
+stance,a position or opinion that is stated to the public,n,姿勢
+stabilize,"to make something stable or consistent, with no major changes",verb,安定させる
+profound,showing a lot of deep knowledge or thought,adj,深遠な
+whereby,by which; by that thing,adv,それによって～する
+ancestor,a person from your family that lived in the past,n,祖先
+genetics,"the scientific study of genes, how a living things develop between generations",n pl.,遺伝学
+proton,a very small part of an atom that has a positive electrical charge,n,陽子
+phosphate,a salt or compound used to help grown plants,n,リン酸塩
+gravity,the force that makes things fall down towards the ground,n,重力
+pole,"a long, narrow piece of metal or wood, that is used to hold or support something",n,極
+puzzle,a problem that requires thought and skill to be solved,n,困らせる；当惑する，パズル
+respiratory,to do with breathing,adj,呼吸器の
+elimination,the act or process of removing or being removed,n,除去
+exit,a door that you go through to leave a place,n,出口；終了
+corruption,"actions that are illegal or morally questionable, often performed by a person in a position of power",n,汚職；腐敗；破損
+circulate,to go round continuously,verb,循環する
+obscure,"not famous, unknown by most people; not easy to understand",adj,あいまいな
+contradict,"to disagree, to say the opposite is true",verb,矛盾する；否定する
+interfere,to get involved in the business of others without invitation,verb,干渉する
+trauma,a very severe or upsetting experience,n,外傷；トラウマ
+upward,moving toward a higher point or position,adv,上向きに
+gross,total amount; extreme or unreasonable,adj,気持ち悪い
+optical,concerning vision or helping people see,adj,光学の
+communist,believer in communism,adj,共産主義者
+continent,one of the very large areas of land on Earth that are usually divided into several countries,n,大陸
+physics,"the study of heat, light, and other forms of energy and how they affect objects",n pl.,物理学
+viable,able to be done; possible,adj,実行可能な
+limb,"leg, arm or wing",n,肢
+retrieve,to find and get something from somewhere,verb,取り戻す；検索する
+presume,to think that something is probably true,verb,推定する
+rationality,being able to think clearly,n,合理性
+stereotype,"an idea or belief about what someone or something is like, often unfair or untrue",n,固定観念，固定観念で見る
+slavery,"(n,) the state of being a slave",n,奴隷制度
+artistic,"Being able to paint, write music, etc.; creative",adj,芸術的な
+anthropology,the study of human origins and the development of society,n,人類学
+faculty,the teachers in a school or college,n,学部；教授陣；能力
+antibiotic,concerning medicine that is used to fight certain diseases,adj,抗生物質，抗生物質の
+portray,"to represent something or someone in a particular way, often for artistic purposes",verb,描く
+chemistry,the study of the structure of substances,n,化学
+sexuality,characterized and distinguished by sex,n,性的特質
+axiom,a statement that is accepted as true,n,公理
+pest,an unwanted insect or small animal that eats plants or food supplies,n,害虫
+fracture,the result of breaking a hard material; a crack,n,骨折，骨折する；砕く
+transplant,a medical operation in which a new organ is placed inside a patient's body,n,移植，移植する
+goods,general term for things that are bought or sold,n pl.,商品
+shortly,quickly; soon,adv,まもなく
+epidemic,a disease affecting many people,adj,流行性の、伝染病
+inversion,a change in position of things so they become the opposite,n,反転
+irrelevant,"not important, not related to the topic",adj,無関係の
+mechanic,a person who looks after machinery,n,機械工
+epidemiology,the science of how diseases spread,n,疫学
+dissolve,to melt into a liquid so that a substance mixes with the liquid itself,verb,溶解する
+fatigue,being very tired,n,疲労
+nonetheless,"in spite of that, nevertheless",adj,それにもかかわらず
+bargain,something bought for a lower price than expected,n,バーゲン； 安売り
+infectious,"capable of causing infection, by the spreading of a bacteria or virus to others",adj,伝染性の
+individually,in a way involving only that person,adv,個別に
+psychologist,an expert who studies the mind and behavior,n,心理学者
+trans,"a prefix meaning 'across', 'through' or 'changing thoroughly'",prefix,トランス
+irrigation,supplying land with water using pipes,n,かんがい
+diary,blank book in which you write what you did each day,n,日記
+treaty,an agreement between nations,n,条約
+rehabilitation,"a scheme to help someone who has been ill or in prison to return to a healthy, independent, and useful life",n,修復；リハビリ
+illusion,"an image that seems real, but is not real",n,幻想
+bat,object used for hitting a ball in various games,n,バット
+optimum,the best or most desirable,adj,最適な
+fever,a high body temperature,n,熱
+paradox,"a saying that seems contrary to popular belief, but which may be true",n,逆説；パラドックス
+kidney,an organ in the body that cleans the blood,n,腎臓
+predator,an animal that feeds itself by killing and eating other animals,n,捕食者
+migrate,to move from place to another to live or work,verb,移動する; 移住する
+infinity,with out end; limitless,n,無限
+shallow,not deep; a small distance between the lowest and highest point,adj,浅い
+fundamentally,in a basic and important way,adv,根本的に
+synthetic,not natural; made from artificial materials,adj,合成的な
+solar,"concerning the sun, or its heat",adj,太陽の
+hepatitis,"a disease of the liver that causes inflammation, yellow skin and a fever",n,肝炎
+ton,a unit of weight equal to 907 kilograms,n,トン
+bubble,a small ball of air inside of a liquid,n,泡
+bracket,a 90 degree piece of metal used to support a wall shelf,n,括弧
+elasticity,the ability to stretch easily and then quickly return to the original shape,n,弾力性
+cure,a medicine or treatment that makes an ill person become healthy,n,治療，治療する
+contradictory,"containing information, statements, or beliefs that do not agree with one another",adj,矛盾した
+sensation,"a feeling that is experienced by the body, usually through the sense of touch",n,感覚
+sustainable,capable of continuing for a long time at the same level; does not damage the environment,adj,持続可能な
+elastic,able to return to original shape or size after stretching,adj,弾性の
+machinery,machines in general,n,機械
+dictate,to speak while another person (or computer) writes the words down,verb,書き取らせる；口述する
+vitamin,a substance that is healthy for your body and can be found in foods or taken as a medicine,n,ビタミン
+incline,a slope or surface that rises uphill,n,傾く，傾斜
+leisure,time when you have no work to do and can relax,n,余暇；レジャー 
+enforcement,the act or process of making sure that rules are followed,n,施行
+cyclic,a series of regular and repeated actions,adj,循環の；環式の
+prey,an animal that is killed and eaten by another animal,n,捕食
+clue,a piece of information that helps explain a situation or provide a solution to a problem,n,手がかり
+friction,the act of sliding two objects against each other,n,摩擦
+parenthesis,"one of two symbols ( and ), used in writing",n,括弧
+noble,having personal qualities that people admire,adj,気高い
+potassium,"a common, soft, silvery white metal that is usually used for farming or industrial purposes",n,カリウム
+reactive,easily reacting to; responsive,adj,反応の
+genetically,"caused or controlled, or by genes",adv,遺伝的に
+bacteria,the very small creatures that sometimes cause disease in humans and animals,n,細菌
+wisdom,knowledge gained from experience in life,n,知恵
+crude,"basic or made without skill, such as a crude drawing",adj,原油，自然の；粗雑な
+realism,"accepting things as they are, not as you want",n,現実主義
+deliberately,"in a careful, considered manner",adv,意図的に
+chemotherapy,"the treatment of diseases, such as cancer, using chemicals",n,化学療法
+surplus,extra; more than is needed,adj,余剰；黒字
+capillary,very small blood vessels,n,毛細血管
+directive,formal an order from an authority,n,指令；指示の
+globalization,"international spread of something, e.g. company",n,世界化
+alien,person or creature from a planet other than Earth,n,外国人；宇宙人
+portfolio,a list of the financial assets held by an individual or other financial institution,n,ポートフォリオ
+monopoly,complete control of the market for a service or product,adv,独占
+lifestyle,the type of life that you have,n,ライフスタイル；生活様式
+invert,to turn something upside down,verb,反転する
+thread,"a long, very thin, soft material used to join or make cloth",n,糸
+clay,"heavy, sticky earth used to make pottery",n,粘土
+dye,a liquid that colors hair or cloth,n,染料，染める
+transcribe,to write something spoken,verb,～を書き写す
+dilute,"to mix; to reduce in strength, concentration, quality or purity",verb,希薄な，薄くする
+tribe,"a racial group united by language, religion and customs",n,部族
+damp,a little wet,adj,湿った
+economically,in an efficient manner; without using too much effort,adv,経済的に
+critically,in a way that is serious or dangerous; vitally,adv,批判的に
+secrete,to produce a liquid,verb,隠す；分泌する
+hip,the upper part of the leg,n,臀部；腰
+plantation,"a large area of plants, usually in a hot climate",n,農園
+prejudice,"an unreasonable hatred for a group of people, usually a race or a religion",n,偏見
+onwards,forward,adv,前方へ
+anti,a prefix meaning 'against' or 'opposed',prefix,アンチ
+helix,a 3D spiral shape,n,螺旋
+interrupt,to cause something to stop happening for a time,verb,中断する；割り込む
+domination,authority; rule; control,n,支配
+undergraduate,a college student who is working toward his or her first degree,n,学部生
+soluble,"can be mixed with a liquid, e.g. salt is soluble in water",adj,水溶性
+innate,present in a person or animal from the time of birth,adj,生まれつきの
+dioxide,an oxide containing two oxides per molecule,n,二酸化
+goat,small animal with beard and horns,n,ヤギ
+emit,"formal to release or send out (a gas, etc)",verb,出す；発する
+confound,"to confuse and greatly surprise someone, so that they are unable to explain a situation",verb,情況などを混乱させる
+competent,fully qualified or capable of doing,adj,有能な
+degrade,to treat someone without respect; to reduce in amount or strength,verb,低下する；分解する
+layout,"plan or design of something, e.g. of book page",n,レイアウト；設計
+fabric,cloth,n,織物
+container,an object that can be used to hold things,n,容器
+fungus,"a group of plants that grow on dead materials and have no flowers, e.g. mushrooms",n pl.,菌
+reservoir,"a lake, usually artificial, where water is collected and stored for the use of a community or industry",n,貯水池
+footnote,extra information at the bottom of a page,n,脚注
+bodily,"physically, as when lifting someone",adv,身体の
+niche,"a small area; a specialised business, job or activity",n,ニッチ
+vague,not clearly stated,adj,ぼんやりした
+affirm,"to state, strengthen or support a belief you have",verb,確認する
+urine,yellow liquid waste from the body,n,尿
+afterward,happening after something else happened,adv,その後
+jazz,a type of American music known for its energetic beat and parts that musicians make up as they go along,n,ジャズ
+antiquity,an ancient period; something made a long time ago,n,古代；古代に作られたもの
+unemployed,being without a job; jobless,adj,失業した，失業者
+toxic,poisonous; harmful,adj,毒性の
+yeast,a single-celled fungi used to make bread and beer,n,イースト
+punish,to make someone suffer for bad behavior,verb,罰する
+forum,meeting where people can openly discuss a subject,n,フォーラム、講演会、座談会
+bleed,to lose blood because of an injury,verb,出血する
+overhead,located above your head or in the sky,adj,間接費
+republic,a country governed by elected representatives,n,共和国
+processor,a machine or company that prepares something and makes it ready for use,n,処理装置；加工機；加工業者
+goodness,nourishment; good food value,n,よいこと
+audit,to examine carefully for accuracy,verb,監査
+comply,to act in agreement with another's wishes; to obey a rule,verb,従う
+legend,"old story generally believed, although not proven",n,伝説
+slot,"a long narrow opening, into which you put or fit something",n,細長い穴；地位；時間枠
+drain,"a pipe that removes water, or other liquids",n,配水管，排出する
+abdominal,Concerned with the abdomen or stomach,adj,腹部の
+media,"means of communication (tv, newspapers, internet)",n,メディア；マスコミ
+tempt,"to make someone want something, even if it's bad",verb,誘惑する
+outlet,"a way for something to be released; a pipe, hole or wire through which gas, liquid or electricity flows",n,アウトレット
+precipitation,"rain, snow or hail",n,降水量
+founds,"to be based on, started or created by",verb,設立する
+invade,to enter a place with an aim of taking control of it,verb,侵入する
+interviewer,a person who asks questions to obtain information,n,面接する人
+apple,hard round red or green fruit with a white center,n,りんご
+planner,notebook for recording appointments or things to do,n,手帳；ノート
+supposedly,as some people believe (shows you doubt it),adv,たぶん
+gut,"the parts inside: a human body, animal body or a machine",n,腸
+swell,"to become larger than normal, often because of injury",verb,膨張する
+emperor,man who rules an empire,n,皇帝
+altitude,the height of something above sea level,n,高度
+gauge,a tool used to measure things,n,計測器，測定する
+transparency,the amount you can see through something,n,透明
+sub,a prefix meaning 'under' or 'instead of',prefix,サブ
+blank,being empty; not filled out; with no writing on it,adj,空白
+chloride,a chemical compound that is a mixture of chlorine and something else,n,塩化物
+sensible,having the ability to judge something reasonably,adj,賢明な；分別のある
+weave,to make something by crossing threads over and under each other,verb,織る
+destination,the place one is traveling to,n,目的地；宛先
+precipitate,to cause to happen,verb,沈殿物
+painful,causing or feeling physical pain or hurt,adj,痛い
+industrialization,process of creating and developing many businesses,n,工業化
+lab,laboratory; a place to do scientific experiments,n,研究所
+seminar,a small class at a college or university,n,セミナー
+minus,(prep) being less than zero in number,prep,マイナス；負数
+conduction,"the transmission of heat, electricity or sound",n,伝導
+audio,concerning sound,adj,音声の
+subtract,"to take away, e.g. 20 - 5 = 15",verb,減算する
+facet,a part of something,n,宝石などの小面
+splice,act of connecting two pieces of rope or wire into one,n,接合
+incumbent,a person who holds a particular office or position,n,現職
+biodiversity,"the variation in an environment, the number of different types of life found there",n,生物多様性
+chunk,a large bit of something; thick lump,n,大きな塊
+credibility,quality of being believable or deserving of trust,n,信頼性
+tutor,a teacher,n,家庭教師
+super,of the highest quality; great; marvelous,adj,超；最高の
+fin,"the flat, thin body parts of a fish that sticks out and helps guide it through water",n,魚のひれ
+aluminum,very light silvery-white metal used to make cans,n,アルミニウム 
+gram,a metric unit of weight,n,グラム
+liable,legally responsible for something,adj,法的責任がある
+marble,a kind of stone; metamorphosed limestone,n,大理石
+pesticide,a chemical substance used to kill pests,n,農薬
+technically,in an exact and particular manner,adv,技術的に；専門的に言うと
+criteria,standard used to make judgments or decisions,n,基準
+fringe,the edge of something; such as the decorative edge on a piece of clothing,n,縁；縞（しま）
+messenger,someone who delivers a messages,n,使者；メッセンジャー
+biologist,a scientist who studies living things,n,生物学者
+connotation,an association; an implication,n,含蓄
+delta,the place a river divides before entering a larger body of water,n,デルタ
+tremendous,"having great size, excellence, or power",adj,途方もない
+snake,an animal with with a long thin body and no arms or legs,n,ヘビ
+flesh,the soft parts of the body,n,肉
+ghost,"spirit of a dead person, appearing to the living",n,幽霊
+marrow,"a soft, fatty tissue inside bones",n,骨髄
+surgeon,a doctor who performs surgery,n,外科医
+instinct,"the natural way a person or animal thinks or behaves, knowledge that is not learned",n,本能
+industrialize,To make into something at an industrial level,verb,工業化する
+denominator,the bottom number in a fraction,n,分母
+stripe,"a long, thin part of something which is a different color from the parts beside it",n,縞模様
+junior,someone lower in rank,adj,年下の；後輩の，年少者
+solvent,something that dissolves or can melt another substance,n,溶剤
+kilometer,a metric unit of length equal to 1000 meters,n,キロメートル
+slab,"a thick, flat slice of something",n,厚板；厚切り
+click,to press a computer mouse to do something on a computer,verb,クリックする
+hedge,a fence made with small trees; avoid or try to avoid fulfilling,n,生け垣；防衛
+spray,to make water or liquid fly in very small drops,verb,スプレー，スプレーする；散布する
+cinema,a place for showing movies,n,映画；映画館
+plug,an electrical connector; to fill or close tightly so liquid or air cannot pass,verb,プラグ；栓
+naked,not wearing any clothes; without covering,adj,裸の
+indifference,a lack of enthusiasm or interest in things; seeming not to care,n,無関心
+erase,to remove written information or information on a computer memory,verb,消す
+powder,a dry substance made up of very small pieces,n,粉末
+micro,"a prefix meaning 'very small', such as microchip",n,マイクロ
+clip,a metal holder used for keeping things together,n,クリップ；切り抜き，切り抜く
+solute,"a substance that has dissolved in a solvent and become part of the liquid, so that they form a solution",adj,溶質
+dissection,the act or process of cutting something,n,切開
+censor,"to remove parts of a book, film or letter for moral, religious, or political reasons",n,検閲官，検閲する
+portrayal,"the way that something or someone is represented in a book, film, picture or other context",adj,描写
+statistics,a type of mathematics that provide specific information or prove something,n pl.,統計
+thumb,"the short, thick finger on the side of your hand",n,親指
+acidic,containing acid,adj,酸性の
+uplift,to make someone feel happier or more hopeful,n,元気付ける
+flip,to rotate or turn something over,n,反転する；はじく
+congruent,having the same shape and size,adj,合同の
+parcel,"a package or box wrapped in paper, a thing bigger than a letter that is sent in the mail",n,小包
+lecturer,a junior teacher in university,n,講師
+skip,to not do; to jump,verb,スキップ，飛ばす
+poster,"a large, printed notice or picture",n,ポスター
+sword,a long metal weapon with a sharp point and edge,n,剣
+photographic,concerning the art of making images with cameras,adj,写真の
+auction,To sell to a person offering the highest price,verb,競売で売る
+barrel,a round container with curved sides and flat ends,n,樽；バレル
+mentor,an experienced or wise person who teaches or helps another person,n,メンター
+nicely,in a pleasing way; in a polite way,adv,うまく；よく
+lump,"a small hard part of something smooth, soft, or continuous",n,かたまり；しこり
+quiz,a game in which players answer questions on a specific topic,n,小テスト，小テストをする
+watershed,"a period of time during which important, significant changes take place",verb,流域
+liter,metric unit for measuring liquid or gas,n,リットル
+oxidize,to convert (an element) into an oxide; combine with oxygen - to rust,verb,酸化
+mercury,"a heavy, silver-white metal that is used in thermometers to measure temperature; a planet",n,水銀
+noisy,full of noise; loud,adj,やかましい；派手な 
+headquarter,the main office of a company or organisation,n,本社
+phenomenal,"unusual, remarkable",adj,驚異的な
+multinational,involving many countries,adj,多国籍の，多国籍企業
+comma,mark showing a pause or list in a sentence,n,コンマ
+bizarre,odd or strange,adj,奇妙な
+specialty,the specific area of your field,n,専門；特殊；名物
+socialize,to teach people to behave in a way which is acceptable in their culture; to spend time with people,verb,社交化
+enormously,"extremely, by a large amount",adv,非常に
+novice,"a person with little or no experience in a particular activity, skill, or subject",n,初心者
+rope,a thick string made by twisting many fibers together,n,ロープ
+campus,"the site of an institution, such as a university campus",n pl.,キャンパス
+clever,Showing intelligence; quick to understand or learn,adj,利口な
+mole,a small animal with dark fur that lives under the ground; a unit for measuring molecules,n,ほくろ
+sometime,at an unknown time in the future,adj,いつか
+bucket,open container with a handle used to carry liquids,n,バケツ
+swap,to trade or exchange,verb,交換する
+recipe,directions for making something,n,レシピ 
+airplane,a machine that flies through the air,n,飛行機
+deflection,the action of making something move in a different direction,n,たわみ
+deceive,to make someone believe something that is not true,verb,欺く
+syllabus,the teaching schedule for a course in a school or university,n,概要
+neat,Not messy; clean and orderly; simple and effective,adj,きちんとした
+factorial,concerning factors or factorials,adj,要因の；階乗の
+lever,a handle that one pulls to operate a machine,n,レバー
+descriptor,a label; something that describes,n,記述語；記述子
+semester,half a year in school or college,n,学期
+underneath,below or beneath something; under,adv,下に
+reactor,device to control nuclear energy as a power source,n,原子炉
+herbicide,a poison that kills weeds,n,除草剤
+bonus,extra money for achieving/exceeding target,n pl.,ボーナス；賞与
+cheat,To act in dishonest manner to gain an advantage,verb,だます
+missile,"a weapon, usually thrown, shot or launched",n,ミサイル
+rub,to move something back and forth along a surface,verb,こする
+radar,a device that sends out radio waves for finding out the position of another object,n,レーダー
+memorize,to study something so that you remember it,verb,覚える
+scripture,the holy books of a particular religion,n,聖書
+whoever,whatever person; any person at all,pron,誰が～しようとも；一体誰が～；～する人は誰でも
+whichever,whatever one,det,どちらの～でも
+bullet,metal object fired from a gun,n,弾丸
+punch,to make a quick hit with a closed hand,verb,殴る，パンチ
+postgraduate,graduate studying for a further degree,n,大学院生
+artwork,photographs or pictures in a printed publication,n,作品
+pardon,to excuse,verb,何とおっしゃいましたか？
+millimeter,1/1000th of a meter,n,ミリリットル
+incredible,very hard to believe,adj,信じられない
+halfway,a middle point between two extremes,adv,中間で；途中で
+deadline,a date or time before which something must be done,n,締め切り
+bang,to strike something loudly or forcefully,verb,たたく；ぶつける
+semi,a prefix meaning 'half',prefix,半；準
+slash,to cut violently,n,サッと切る；大幅に削減する，切り傷；削減；スラッシュ
+ridiculous,"something that deserves laughter, is foolish or funny",adj,ばかげた
+homework,work that a student is given to do at home,n,宿題
+multi,a prefix meaning 'more than one',prefix,多数の
+volition,the act of making a conscious choice,n,意志選択行為
+tricky,difficult to do or deal with; something that needs skill,adj,巧妙な；扱いにくい
+cheers,a toast used when raising your glass to drink,n,乾杯
+shuttle,a vehicle that carries passengers or items between two places,n,シャトル，往復する
+aerosol,a container that sprays liquid under pressure,n,エアロゾル
+athletic,fit and strong; physically capable,adj,たくましい；強健な
+chess,"a game of strategy, for two players",n,チェス
+terribly,to an extreme degree; badly; very,adv,ひどく
+unintelligible,that cannot be understood,adj,理解できない
+circa,an approximate time period,n,約（年号に使われる）
+scroll,a long rolled piece of paper with writing on it; to move up and down a computer screen,n,スクロール
+sponsorship,money given to a student to pay for education,n,資金援助
+connector,a device that joins things together,n,コネクタ
+nasty,"very bad, unpleasant, or offensive",adj,不快な；意地の悪い
+incredibly,"extremely, hard to believe",adv,信じられないほど
+neo,a prefix meaning 'recent' or 'new',n,ネオ
+entrant,a person who enters a contest,n,参加者
+hawk,a large bird that gets its food by killing smaller birds and animals,n,タカ
+handout,"a piece of paper with information, often given out before a presentation",n,配布資料
+tech,short for 'technology' or 'technician',n,科学技術
+rack,"a frame, stand or hook on which things are set or hung",n,棚
+applause,the sound made by clapping a performance or speech,n,拍手
+demonstrator,person who shows how something works e.g. product,n,証明者
+calculator,a small electronic device used for calculation,n,計算機
+mall,a large shopping center with many individual stores,n,モール
+sneeze,to loudly blow air out of your nose or mouth in a sudden uncontrolled way,verb,くしゃみをする
+sniff,to smell by short intakes of air.,verb,匂いを嗅ぐ
+stadium,very large building with a sports field and rows of seats all around that is used for various events,n,スタジアム
+descendent,,undefined,子孫
